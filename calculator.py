@@ -3,7 +3,7 @@ from tkinter import *
 root =Tk()
 root.title("Simple Calculator")
 # Set fixed window size
-root.geometry("294x432")
+root.geometry("294x431")
 # Disable window resize 
 root.resizable(False, False)
 
